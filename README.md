@@ -1,3 +1,14 @@
+#Workshop 1 (Build Apps that can see)
+
+##All the prep materials for this workshop can be found at: https://github.com/amynic/AINights
+
+#Workshop 2 (Deep Learning on Azure)
+
+
+##Provisioned DLVM on Azure (https://azuremarketplace.microsoft.com/en-au/marketplace/apps/microsoft-ads.dsvm-deep-learning) If you wish to run on your laptop, not on Azure you may need to install following python packages (Recommended for the machines with Nvidia-GPUs) - PyTorch & Torchvision - https://pytorch.org/get-started/locally/ - Jupyter Notebook - https://jupyter.org/
+
+Haritha will provide the notebook through GitHub in the beginning of the session.
+
 # AI Nights Content - Beginner Track
 ## Workshop for Attendees
 
